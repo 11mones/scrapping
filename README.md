@@ -12,7 +12,7 @@
 
         pip i
 
-How to run the endpoints ? 
+How to run the code ? 
 
 **Run the code :**
 
